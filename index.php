@@ -16,7 +16,7 @@
 
 <body>
 	<header>
-		<div class="top-panel">          //123123123123123123
+		<div class="top-panel">
 			<div class="container flex-s-c">
 				<a href="#" class="logo bright">
 					<img src="images/2-100.png" alt="">
