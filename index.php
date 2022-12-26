@@ -359,10 +359,4 @@ $mc = mysql_close();
 </a>
 </div>
 
-<div style="position:absolute; top:1770px; left:1454px;">
-<a href="https://pw.mmotop.ru/servers/35489/votes/new" target="_blank">
-  <img src="https://perfect136.com/images/mmotop.png" border="0" id="mmotopratingimg" alt="Рейтинг серверов mmotop">
-</a>
-</div>
-
 </html>
